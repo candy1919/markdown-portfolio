@@ -2,7 +2,7 @@
 layout: default
 ---
 
-{% ![yaktocat](https://octodex.github.com/images/yaktocat.png) %}
+{% include 01-image.md %}
 
 <br>
 
